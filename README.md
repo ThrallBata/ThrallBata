@@ -18,4 +18,4 @@ Skills: Python / Django / C# / ASP.NET Core
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThrallBata)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ThrallBata&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThrallBata&show_icons=true)  
